@@ -1,0 +1,7 @@
+C:\Users\Jules\source\repos\EZDump\EZDump\bin\x64\Release\EZDump.exe.config
+C:\Users\Jules\source\repos\EZDump\EZDump\bin\x64\Release\EZDump.exe
+C:\Users\Jules\source\repos\EZDump\EZDump\bin\x64\Release\EZDump.pdb
+C:\Users\Jules\source\repos\EZDump\EZDump\obj\x64\Release\EZDump.csproj.AssemblyReference.cache
+C:\Users\Jules\source\repos\EZDump\EZDump\obj\x64\Release\EZDump.csproj.CoreCompileInputs.cache
+C:\Users\Jules\source\repos\EZDump\EZDump\obj\x64\Release\EZDump.exe
+C:\Users\Jules\source\repos\EZDump\EZDump\obj\x64\Release\EZDump.pdb
